@@ -1,3 +1,10 @@
+/**
+ * @autor Chekmarev Andrey
+ * 3rd year, 7th group
+ * @version 1.0
+ *  Main class
+ */
+
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
